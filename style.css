@@ -1,0 +1,16 @@
+p,.b329{
+    color: blue;
+    }
+    #b325,.b326{
+        border: green solid 1px;
+        width: 300px;
+    }
+    
+    #b325,.b326,.b329{
+        font-weight: bold;
+    }
+    
+    p{
+        background: yellow;
+        width: 300px;
+    }
